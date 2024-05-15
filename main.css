@@ -1,0 +1,23 @@
+body {
+    background-color: #493450;
+    color: #FFF;
+    margin-inline: auto;
+    text-align: center;
+}
+
+a {
+    color: #FFF;
+}
+
+a:visited {
+    color: #8d8d8d;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
